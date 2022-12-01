@@ -1,0 +1,15 @@
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\bin\Debug\net7.0\HomeWorkTask2.exe
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\bin\Debug\net7.0\HomeWorkTask2.deps.json
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\bin\Debug\net7.0\HomeWorkTask2.runtimeconfig.json
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\bin\Debug\net7.0\HomeWorkTask2.dll
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\bin\Debug\net7.0\HomeWorkTask2.pdb
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\obj\Debug\net7.0\HomeWorkTask2.csproj.AssemblyReference.cache
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\obj\Debug\net7.0\HomeWorkTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\obj\Debug\net7.0\HomeWorkTask2.AssemblyInfoInputs.cache
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\obj\Debug\net7.0\HomeWorkTask2.AssemblyInfo.cs
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\obj\Debug\net7.0\HomeWorkTask2.csproj.CoreCompileInputs.cache
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\obj\Debug\net7.0\HomeWorkTask2.dll
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\obj\Debug\net7.0\refint\HomeWorkTask2.dll
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\obj\Debug\net7.0\HomeWorkTask2.pdb
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\obj\Debug\net7.0\HomeWorkTask2.genruntimeconfig.cache
+C:\Users\fatim\Desktop\HW\HomeWorkTask2\obj\Debug\net7.0\ref\HomeWorkTask2.dll

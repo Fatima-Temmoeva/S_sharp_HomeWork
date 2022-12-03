@@ -1,0 +1,18 @@
+﻿Console.WriteLine("Enter the coordinates of point A");  
+Console.WriteLine("Enter the coordinate Xa");  
+int Xa = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the coordinate Ya");  
+int Ya = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the coordinate Za");  
+int Za = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the coordinates of point B");  
+Console.WriteLine("Enter the coordinate Xb");  
+int Xb = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the coordinate Yb");  
+int Yb = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the coordinate Zb");  
+int Zb = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Coordinate of point A " + "(" + Xa + "," + Ya + "," + Za + ")" ); 
+Console.WriteLine("Coordinate of point B " + "(" + Xb + "," + Yb + "," + Zb + ")" );
+double AB = Math.Sqrt(Math.Pow((Xb-Xa),2) + Math.Pow((Yb-Ya),2) + Math.Pow((Zb-Za),2));
+Console.WriteLine("The length of the vector is " + AB );

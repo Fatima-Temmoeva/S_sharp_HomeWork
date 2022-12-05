@@ -5,5 +5,5 @@ int B = Convert.ToInt32(Console.ReadLine());
 int st = 1;
 for (int i = 1; i <= B; i++ )
 st = st * A;
-Console.WriteLine("Stepen' chisla A = " + st);
-
+Console.Write("Stepen' chisla A = " + st);
+Console.WriteLine();

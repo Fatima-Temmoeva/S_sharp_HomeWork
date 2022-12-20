@@ -1,0 +1,13 @@
+﻿Console.WriteLine("Vvedi uglovoy koeffitsiyent k1 dlya pervoi pryamoi");
+int k1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Vvedi koeffitsiyent b1 dlya pervoi pryamoi");
+int b1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Vvedi uglovoy koeffitsiyent k2 dlya vtoroi pryamoi");
+int k2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Vvedi koeffitsiyent b2 dlya vtoroi pryamoi");
+int b2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("y1 = " + k1 + "*" + "x" + "+" + b1);
+Console.WriteLine("y2 = " + k2 + "*" + "x" + "+" + b2);
+double x = (double) (b2 - b1) / (k1 - k2);
+double y = k1 * x + b1;
+Console.WriteLine("Tochka peresecheniya 2 pryamykh:" + "(" + x + ";" + y + ")");
